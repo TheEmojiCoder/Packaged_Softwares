@@ -1,7 +1,7 @@
 # Packaged_Softwares
 
 
-Warning:  When installing any .exe file, your computer may warn you that this is a harmful file.  It is not. If your browser blocks the file, click the three dots, and click keep.  Then, when your browser takes you to your browser downloads page, click show more, and then "Keep Anyway". All computers have a default protection system against .exe
+Warning:  When installing any .exe file, your computer may warn you that this is a harmful file.  These .exe files aren't dnagerous; even your browser is installed as an .exe file!  Since these .exe files have not been registered, your computer thinks that they are harmful, but they are not. If your browser blocks the file, click the three dots, and click keep.  Then, when your browser takes you to your browser downloads page, click show more, and then "Keep Anyway". All computers have a default protection system against .exe
 (Application) files.  When you open the file, click "More Info", and then "Run Anyway". 
 
 All files Created and Written by @TheEmojiCoder.
